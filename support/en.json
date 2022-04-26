@@ -1,0 +1,228 @@
+{
+  "headerItems": [
+    {
+      "id": 2,
+      "title": "Getting Started",
+      "imageName": "apps.iphone",
+      "color": 0,
+      "supportPages": [
+        {
+          "id": 0,
+          "title": "1. Open WatchTo5K on your Apple Watch",
+          "subtitle": "WatchTo5K should have automatically installed on your watch. Open it from the Watch App Launcher.\n\nIf the app has not automatically installed on your watch. Open the `Watch` App on your Phone, scroll down to WatchTo5K and tap install.\n",
+          "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/LaunchAppOnWatch.jpg"
+        },
+        {
+          "id": 1,
+          "title": "2. Select a Run",
+          "subtitle": "Select Week 1 Run 1 from the list (if you wish to start from a later point in the plan scroll down and select a different run).",
+          "videoURL": "https://bencallis.github.io/WatchTo5K-AppSupport/videos/SelectRunWatch.mp4",
+          "videoPadding": true
+        },
+        {
+          "id": 2,
+          "title": "3. Hit Start and Accept the Health Permissions",
+          "subtitle": "The first time you start a run you will be asked to grant Health Data Read/Write access and Location permissions. These are required to read health data from your watch during your workout and store your finished run. Granting location permissions allows the app to associate a route with your run so you can see it on a map in the WatchTo5K app.",
+          "videoURL": "https://bencallis.github.io/WatchTo5K-AppSupport/videos/AcceptPermissionsWatch.mp4",
+          "videoPadding": true
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Running Tips",
+      "imageName": "heart.text.square",
+      "color": 2,
+      "supportPages": [
+        {
+          "id": 0,
+          "title": "Don't run too fast",
+          "subtitle": "Your body has to get used to the new stresses and strains of running. Many beginner runners start out jogging too fast and pay the price for this mistake within just a few minutes. Frustration, overexertion, pain or even injuries are just some of the consequences. Therefore, start running at a moderate pace (i.e. where you can hold a conversation).",
+          "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/RunningLegs.jpg"
+        },
+        {
+          "id": 1,
+          "title": "Take a rest day between each run",
+          "subtitle": "You should wait a day before attempting the next workout to allow your body needs to rest so it can recover. Aim to do 3 runs per week and have 4 rest days. This extra rest day can give you greater flexibility of when to run.",
+          "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/RestDay.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Don’t focus on your pace as a new runner",
+          "subtitle": "Focus on just showing up consistently for the runs and stick to the programme. We all start at different places, so don't compare your start to someone else's chapter six. Your pace will improve as you progress through the plan as will your distance.",
+          "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/Race.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Celebrate your achievements",
+          "subtitle": "Remember to celebrate your achievements throughout the programme. Getting started is often the hardest part and you have already done that!\n\nShare you achievements with your friends and family.\nBuy yourself a new piece of running clothing, go for brunch, get a massage or sign up for a race!",
+          "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/FinishLine.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Make running social",
+          "subtitle": "Running with a friend can make a slog seem like a jaunt, even if you save all the actual chatting for afterwards.",
+          "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/RunSocial.jpg"
+        }
+      ]
+    }
+  ],
+  "highlightedSections": [
+    {
+      "id": 0,
+      "title": "Guides",
+      "items": [
+        {
+          "id": 1,
+          "title": "Opening WatchTo5K on your Apple Watch.",
+          "subtitle": "",
+          "imageName": "applewatch",
+          "color": 1,
+          "supportPages": [
+            {
+              "id": 0,
+              "title": "Opening the App",
+              "subtitle": "The WatchTo5K app should have automatically installed on your watch and should be visible in your app list when you press the digital crown.\n\nIf you can not see it on your Watches then you can manually start the installation from your phone (outlined on the next page).",
+              "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/LaunchAppOnWatch.jpg"
+            },
+            {
+              "id": 1,
+              "title": "Manually installing the Watch App",
+              "subtitle": "Open the \"Watch\" App on your phone, scroll down to Uninstalled Apps and tap install next to WatchTo5K. This will trigger the installation providing your watch is nearby, has a connection to your phone (via Bluetooth or Wi-Fi) and is powered on with over 50% battery remaining. Once completed WatchTo5K will move to the \"Installed on Apple Watch\" list. It will now appear on your Watches App Home screen as shown on the previous page.",
+              "videoURL": "https://bencallis.github.io/WatchTo5K-AppSupport/videos/ManuallyInstallWatchApp.mp4"
+            }
+          ]
+        },
+        {
+          "id": 0,
+          "title": "Enable the Virtual Coach when using headphones",
+          "subtitle": "",
+          "imageName": "headphones",
+          "color": 1,
+          "supportPages": [
+            {
+              "id": 0,
+              "title": "1. Connect your headphones to your Watch",
+              "subtitle": "Connect your Bluetooth headphones (such as AirPods) to your watch (rather than your iPhone). On your watch go to Settings → Bluetooth and select your Bluetooth headphones from the list so they show as connected.\n\nAdditional details on how to connect your headphones to your watch can be found here: https://support.apple.com/en-gb/HT204218",
+              "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/LaunchAppOnWatch.jpg"
+            },
+            {
+              "id": 1,
+              "title": "2. Launch the WatchTo5K app on the watch",
+              "subtitle": "After you have connected your headphones launch the WatchTo5k app again and you should hear audio prompts during your workout.",
+              "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/LaunchAppOnWatch.jpg"
+            },
+            {
+              "id": 2,
+              "title": "No Audio over AirPods?",
+              "subtitle": "If you are still not hearing prompts during the workout over your AirPods then enable \"Speak over watch speaker\" in the Run Settings on the WatchTo5K watch app. This will force the app to play the audio prompts and cause AirPods to become active if they are connected.",
+              "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/LaunchAppOnWatch.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Enable the Virtual Coach over the Watches built in speaker",
+          "subtitle": "",
+          "imageName": "speaker.wave.2.fill",
+          "color": 1,
+          "supportPages": [
+            {
+              "id": 0,
+              "title": "Go to Run Settings on your watch",
+              "subtitle": "Select a run then scroll to the bottom of the run overview screen and locate the `Run Settings` button. Tap the Run Settings button and enable 'Speak over watch speaker'.\n\nAll future runs will now use the speaker for prompts.",
+              "videoURL": "https://bencallis.github.io/WatchTo5K-AppSupport/videos/SpeakOverWatchSpeaker.mp4",
+              "videoPadding": true
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Using the app Indoors on a treadmill",
+          "subtitle": "",
+          "imageName": "house.fill",
+          "color": 1,
+          "supportPages": [
+            {
+              "id": 0,
+              "title": "Go to Run Settings on your watch",
+              "subtitle": "Select a run then scroll to the bottom of the run overview screen and locate the `Run Settings` button. Tap the Run Settings button and turn off 'Outdoor run'.\n\nAll future runs will now be treated as indoor runs.",
+              "videoURL": "https://bencallis.github.io/WatchTo5K-AppSupport/videos/IndoorRunWatch.mp4",
+              "videoPadding": true            
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "faqSections": [
+    {
+      "id": 0,
+      "title": "Frequently Asked Questions",
+      "hasDetailPage": false,
+      "items": [
+        {
+          "id": 0,
+          "title": "Do I need to carry my phone with me on my run?",
+          "text": "No, the application will run independently on your watch without the need for your iPhone."
+        },
+        {
+          "id": 5,
+          "title": "Do I need to record a workout using Apples Workout app when using WatchTo5K?",
+          "text": "No. WatchTo5K will automatically record and store relevant workout activity while you run. This data will contribute to your Apple fitness rings."
+        },
+        {
+          "id": 1,
+          "title": "Why can't I hear audio prompts over my bluetooth headphones?",
+          "text": "Confirm your Bluetooth headphones (such as AirPods) are connected to your watch rather than your iPhone. For more details see **Enable the Virtual Coach when using headphones** above."
+        },
+        {
+          "id": 2,
+          "title": "Is it possible to see distance in miles rather than kilometers?",
+          "text": "As the program focuses on building you up to running 5K we felt it was best to always display distance in kilometres within the app."
+        },
+        {
+          "id": 3,
+          "title": "Is it possible to reset the trophies in the app?",
+          "text": "Yes. Go to the **Progress** tab, select the more menu in the top right (button with 3 dots) and select **Restart Plan**."
+        },
+        {
+          "id": 4,
+          "title": "Why are 3 workout activities recorded in Apple Health for a single run?",
+          "text": "Warmup and cooldown activities are recorded as separate entries as they are unlikely to change as your progress through the program. The actual main program is recorded as one single run workout entry which includes all the run and walk segments.\n\nAs you progress through the program you start doing more and more run segments and towards the end of the program sessions just consist of running. By keeping the warmup and cooldown separate you can easily compare your progress over time and look at your distance, average speed and heart rate (without the warmup and cooldown walks skewing the data)."
+        },
+        {
+          "id": 7,
+          "title": "Does the application require an active cellular connection?",
+          "text": "No, the application does not require an active cellular connection and will run on Apple Watches without a cellular chip."
+        },
+        {
+          "id": 8,
+          "title": "What versions of the Apple Watch does the app work on?",
+          "text": "The app requires watchOS 6.0 or later. All watches from Series 2 onwards support WatchOS 6+."
+        },
+        {
+          "id": 6,
+          "title": "I am not happy with the application. Is it possible to get a refund?",
+          "text": "Sorry to hear that the app isn’t providing enough value for you! Please contact us below to see if we can help."
+        }
+      ]
+    }
+  ],
+  "contactSections": [
+    {
+      "id": 0,
+      "title": "Still Need Help?",
+      "items": [
+        {
+          "id": 0,
+          "title": "Submit a Support Request",
+          "url": "https://www.watchto5k.com/support/index.php?a=add",
+          "imageName": "message.fill",
+          "color": 0
+        }
+      ]
+    }
+  ]
+}
+
