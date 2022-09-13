@@ -103,7 +103,7 @@
             {
               "id": 0,
               "title": "1. Connect your headphones to your Watch",
-              "subtitle": "Connect your Bluetooth headphones (such as AirPods) to your watch (rather than your iPhone). On your watch go to Settings → Bluetooth and select your Bluetooth headphones from the list so they show as connected.\n\nAdditional details on how to connect your headphones to your watch can be found here: https://support.apple.com/en-gb/HT204218",
+              "subtitle": "Connect your Bluetooth headphones (such as AirPods) to your watch (rather than your iPhone). On your watch go to Settings → Bluetooth and select your Bluetooth headphones from the list so they show as connected.\n\nAdditional details on how to connect your headphones to your watch can be found at https://support.apple.com/en-gb/HT204218.",
               "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/LaunchAppOnWatch.jpg"
             },
             {
@@ -172,6 +172,16 @@
           "text": "No. WatchTo5K will automatically record and store relevant workout activity while you run. This data will contribute to your Apple fitness rings."
         },
         {
+          "id": 9,
+          "title": "Do I need to complete runs in order or can I skip some?",
+          "text": "You can start any run at any point (simply select it on the watch). There is no need to go in order or to start from the beginning of the plan. Your overall progress in the iPhone companion app is based on the furthest run you complete in the plan (so if you complete the plan but skip a few of the earlier runs you can still reach 100% progress)."
+        },
+        {
+          "id": 10,
+          "title": "Why is some data missing from my completed runs?",
+          "text": "Missing data in runs (such as heart rate or distance) is usually due to missing permissions. The app needs to be able to read the data from your Apple Watch to be able to process and store it alongside runs.\nPlease grant all the permissions to the app. To do this go to **Settings > Health > Apps > Watch to 5K**. On this screen ensure all the toggles are enabled (showing as green)."
+        },
+        {
           "id": 1,
           "title": "Why can't I hear audio prompts over my bluetooth headphones?",
           "text": "Confirm your Bluetooth headphones (such as AirPods) are connected to your watch rather than your iPhone. For more details see **Enable the Virtual Coach when using headphones** above."
@@ -200,6 +210,11 @@
           "id": 8,
           "title": "What versions of the Apple Watch does the app work on?",
           "text": "The app requires watchOS 6.0 or later. All watches from Series 2 onwards support WatchOS 6+."
+        },
+        {
+          "id": 11,
+          "title": "Can I import my runs into Strava or other third-party apps?",
+          "text": "Watch to 5K stores all of its run data in Apple Health. Apple Health is a central and secure place that third-party apps can read and write to (providing you have permitted them to do so).\n\nAny third-party app that can read Running data from Apple Health will be able to see Watch to 5K runs.\n\n**Strava does not** allow third party workouts stored in Apple Health to sync to Strava. However, there are third-party applications (such as *[HealthFit](https://apps.apple.com/us/app/healthfit/id1202650514)*) that you can use on your phone that can read from the shared Apple Health Store and then export data to Strava."
         },
         {
           "id": 6,
