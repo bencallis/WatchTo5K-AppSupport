@@ -49,13 +49,13 @@
         {
           "id": 2,
           "title": "Don’t focus on your pace as a new runner",
-          "subtitle": "Focus on just showing up consistently for the runs and stick to the programme. We all start at different places, so don't compare your start to someone else's chapter six. Your pace will improve as you progress through the plan as will your distance.",
+          "subtitle": "Focus on just showing up consistently for the runs and stick to the program. We all start at different places, so don't compare your start to someone else's chapter six. Your pace will improve as you progress through the plan as will your distance.",
           "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/Race.jpg"
         },
         {
           "id": 3,
           "title": "Celebrate your achievements",
-          "subtitle": "Remember to celebrate your achievements throughout the programme. Getting started is often the hardest part and you have already done that!\n\nShare you achievements with your friends and family.\nBuy yourself a new piece of running clothing, go for brunch, get a massage or sign up for a race!",
+          "subtitle": "Remember to celebrate your achievements throughout the program. Getting started is often the hardest part and you have already done that!\n\nShare you achievements with your friends and family.\nBuy yourself a new piece of running clothing, go for brunch, get a massage or sign up for a race!",
           "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/FinishLine.jpg"
         },
         {
@@ -138,6 +138,41 @@
         },
         {
           "id": 3,
+          "title": "Playing music/podcasts alongside Watch to 5K",
+          "subtitle": "",
+          "imageName": "music.note",
+          "color": 1,
+          "supportPages": [
+              {
+                "id": 0,
+                "title": "Run with music/podcasts",
+                "subtitle": "Watch to 5K can work alongside other music/audio apps installed on your Apple Watch.\n\nThese apps need to be playing audio directly from your watch (rather than acting as a control for an iPhone app).",
+                "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/RunningHeadphones.jpg"
+              },
+            {
+              "id": 1,
+              "title": "1. Connect your headphones to your watch",
+              "subtitle": "Go to settings > Bluetooth (on watch) and ensure headphones are connected.",
+              "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/WatchBluetoothSettings.png"
+            },
+          {
+            "id": 2,
+            "title": "2. Open music/podcast app",
+            "subtitle": "Open an audio app (e.g Spotify) and ensure playback is from the watch.\n\nIn Spotify do this by tapping the icon on the bottom right (will probably look like a phone) and when pressed pick Apple Watch as the source.",
+            "videoURL": "https://bencallis.github.io/WatchTo5K-AppSupport/videos/SpotifyPlaybackOutput.mp4",
+            "videoPadding": true
+          },
+          {
+              "id": 3,
+              "title": "3. Open Watch to 5K",
+              "subtitle": "Start a run and your music will now mute when the coach instructions play.\n\nYou can swipe to the left to access the now playing controls.",
+              "videoURL": "https://bencallis.github.io/WatchTo5K-AppSupport/videos/WatchTo5K-NowPlayingControls.mp4",
+              "videoPadding": true
+          }
+          ]
+        },
+        {
+          "id": 4,
           "title": "Using the app Indoors on a treadmill",
           "subtitle": "",
           "imageName": "house.fill",
@@ -153,7 +188,7 @@
           ]
         },
         {
-          "id": 4,
+          "id": 5,
           "title": "Viewing completed runs in miles or kilometers",
           "subtitle": "",
           "imageName": "speedometer",
@@ -162,15 +197,15 @@
               {
                 "id": 0,
                 "title": "Go to a completed run",
-                "subtitle": "Open the My Runs tab and select one of your completed runs.\n\nSelect the ellipsis menu icon in the top right and tap Switch to miles/kilometres.\nThis will change the metric used for distance and pace for the selected run.\n\nTip: You can also quickly toggle the metrics by tapping the distance or pace tile.",
+                "subtitle": "Open the My Runs tab and select one of your completed runs.\n\nSelect the ellipsis menu icon in the top right and tap Switch to miles/kilometers.\nThis will change the metric used for distance and pace for the selected run.\n\nTip: You can also quickly toggle the metrics by tapping the distance or pace tile.",
                 "videoURL": "https://bencallis.github.io/WatchTo5K-AppSupport/videos/CompletedRunMetrics.mp4",
                 "videoPadding": false
               },
             {
               "id": 1,
-              "title": "The watch app will always stay in kilometres",
+              "title": "The watch app will always stay in kilometers",
               "subtitle": "The Watch to 5K plan focuses on building you up to a 5KM run, so the watch app constantly shows your workout stats in kilometers.",
-              "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/WatchRunScreen.png",
+              "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/WatchRunScreen.png"
             }
           ]
         }
