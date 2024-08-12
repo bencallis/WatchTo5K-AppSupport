@@ -261,7 +261,7 @@
         {
           "id": 8,
           "title": "What versions of the Apple Watch does the app work on?",
-          "text": "The app requires watchOS 6.0 or later. All watches from Series 2 onwards support WatchOS 6+."
+          "text": "The app requires watchOS 8.0 or later. All watches from Series 3 onwards can support the required watchOS version."
         },
         {
           "id": 11,
