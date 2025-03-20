@@ -181,7 +181,7 @@
             {
               "id": 0,
               "title": "Go to Run Settings on your watch",
-              "subtitle": "Select a run then scroll to the bottom of the run overview screen and locate the `Run Settings` button. Tap the Run Settings button and turn off 'Outdoor run'.\n\nAll future runs will now be treated as indoor runs.",
+              "subtitle": "Select a run then tap the Run Settings button and turn off 'Outdoor run'.\n\nAll future runs will now be treated as indoor runs.",
               "videoURL": "https://bencallis.github.io/WatchTo5K-AppSupport/videos/IndoorRunWatch.mp4",
               "videoPadding": true            
             }
@@ -189,23 +189,24 @@
         },
         {
           "id": 5,
-          "title": "Viewing completed runs in miles or kilometers",
+          "title": "Viewing runs in miles or kilometres",
           "subtitle": "",
           "imageName": "speedometer",
           "color": 1,
           "supportPages": [
               {
                 "id": 0,
-                "title": "Go to a completed run",
-                "subtitle": "Open the My Runs tab and select one of your completed runs.\n\nSelect the ellipsis menu icon in the top right and tap Switch to miles/kilometers.\nThis will change the metric used for distance and pace for the selected run.\n\nTip: You can also quickly toggle the metrics by tapping the distance or pace tile.",
-                "videoURL": "https://bencallis.github.io/WatchTo5K-AppSupport/videos/CompletedRunMetrics.mp4",
+                "title": "Go to settings",
+                "subtitle": "Open settings from the Progress tab and select your preferred distance unit.",
+                "videoURL": "https://bencallis.github.io/WatchTo5K-AppSupport/videos/PhoneDistanceUnit.mp4",
                 "videoPadding": false
               },
             {
               "id": 1,
-              "title": "The watch app will always stay in kilometers",
-              "subtitle": "The Watch to 5K plan focuses on building you up to a 5KM run, so the watch app constantly shows your workout stats in kilometers.",
-              "imageURL": "https://bencallis.github.io/WatchTo5K-AppSupport/images/WatchRunScreen.png"
+              "title": "The watch app will auto update",
+              "subtitle": "The watch app will automatically update to your selection when you next open it.\n\nYou can also update the setting in the watch app settings.",
+              "videoURL": "https://bencallis.github.io/WatchTo5K-AppSupport/videos/WatchDistanceUnit.mp4",
+              "videoPadding": false
             }
           ]
         }
